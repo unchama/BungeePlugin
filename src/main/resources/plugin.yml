@@ -1,0 +1,3 @@
+name: BungeePlugin
+version: ${project.version}
+main: com.github.unchama.bungeeplugin.BungeePlugin
